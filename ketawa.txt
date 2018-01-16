@@ -1,0 +1,8 @@
+hehehehehe;
+return false;
+
+hahahahaha;
+return true;
+
+hohohohoho;
+return false;
